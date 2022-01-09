@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "Le Pain - what pain",
+      "body": "Frankly, I couldn't see how it was going to help me learn French, so I abandoned it, but not long afterwards, I came across another 'trick' that has been around for at least 30 years called the keyword method. The way this one works is that you associate the foreign word with a common English word, and visualize that English word. So, for example, to remember that pain is 'bread' you  visualize a pan. Now picture that pan coming out of the oven filled with bread, and concentrate on that image for a few seconds. Bake it into your brain. Now, the next time you see the French word pain, you should be able to conjure up this picture, and say, 'aha, bread!' As with the memory palace, the advantage of this method is that it uses imagery, and the human brain is far better are retaining images than at retaining words",
+      "author": "W. Alex",
+      "id": 1
+    },
+    {
+      "title": "French movies kicks-ass",
+      "body": "Le Chef  Not to be confused with the Jon Favreau movie 'Chef' this one stars the wonderful French actor Jean Reno playing, not a tough cop (or assassin) for a change, but a tough chef trying to hang on his Michelin stars. You'll need to suspend disbelief at times, but it's a lot of fun  to watch Jean play against type and to watch the French skewer Spanish-inspired molecular cuisine.",
+      "author": "J. Doe",
+      "id": 2
+    },
+    {
+      "title": "Mmm, Yogurt",
+      "body": "If you've been to France, you might have noticed a couple of things about yogurt: 1) Their Dannon yogurt (called 'Danone') is so much better than our Dannon yogurt; and 2) French yogurt in general is less expensive than in the US. A LOT LESS.\nOne final thought on French yogurt: When I was staying at a hotel in France a decade ago, containers of plain yogurt were put out at breakfast. Yuch. How do they eat this stuff? I wondered. Then I saw that the people at the next table were sweetening it with some jam that had been put on the table. That's the only way I've even yogurt ever since. It's SO much better than flavored yogurt, which is full of of sugar.",
+      "author": "W. Alex",
+      "id": 3
+    }
+  ]
+}
